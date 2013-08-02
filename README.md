@@ -1,4 +1,4 @@
-sampleSIte
+Sample Django site
 ==========
 
-sample django site
+Just playing aroung with Django.
