@@ -14,8 +14,3 @@ class Choice(models.Model):
 
 	def __unicode__(self):
 		return self.choice_text
-
-		from django.contrib import admin
-from polls.models import Poll
-
-admin.site.register(Poll)
